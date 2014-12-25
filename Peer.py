@@ -8,7 +8,6 @@ import os, fnmatch
 import json, queue
 import hashlib
 from IpPortDto import IpPort
-from FileMD5 import FileMd5
 from time import ctime
 from PySide.QtGui import *
 downloadFileName=None
